@@ -7,12 +7,10 @@
 3. 需要对话次数多的情况下尽量上午或午夜使用，避免大家平时达到限制。Plus账号目前GPT4 模型的频率限制3小时40条,GPT4o3小时80条，建议大家用3.5先提问，不满意再问4，这样应该够用。后面频率变化会怎样，这得看OpenAI的政策了。
 补充说明: 频率的限制就涉及到了是否必须要用GPT4  以及 GPT4 是否够用 的问题: 
 首先, GPT4和GPT3.5提问相同的问题，大部分条件质量可能会稍微高点。但如果你提的问题比较简单（比如 改论文，说把这段润色一下，那GPT4 相比GPT 3.5真没什么优势， 再比如说 问 linux 的 ls命令有什么作用，列出当前目录下的所有文件改用什么命令， 这种你只是期望一个简单明了可以操作的答案，那 3.5其实够用了，我认为也不必用GPT4），还有其他这样的问题不再枚举。对于这种相对简单和答案明确的问题，GPT3.5还有一个速度快的优势，节省了等待时间，体验更好，就我个人而言90%的问题是在问GPT3.5， 
-
 其次，就个人经验而言，模型差异对回答质量的影响绝大部分情况下是比不上提问质量对回答质量的影响的。所以各位可以思考思考如何提出高质量的问题。
 可以积累自己的prompt, 可以参考github 高star项目: [f/awesome-chatgpt-prompts: This repo includes ChatGPT prompt curation to use ChatGPT better. ](https://github.com/f/awesome-chatgpt-prompts) 
 再推荐一个可以备份对话的插件，以防有人删除，也支持Prompt的积累和一些现成模板的调用: [ChatGPT 智能提示
 ](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo?hl=zh-CN)
-
 综上，就第一个问题是否必须要用GPT4  而言，建议各位先问3.5，答案不理想可以考虑细化问题粒度次发问，还是不行就用4。
 第二个问题 GPT4 是否够用: 
 如果你只用4，就不用3.5 那只是一个人也许是够用的，拼车时你和其他人使用4的高峰期错过，那可能也够用。
