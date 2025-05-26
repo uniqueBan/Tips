@@ -21,3 +21,7 @@
 5. 不继续拼车了在自动续费五天之前说，默认自动续费。
 
 ChatGPT plus介绍 | 模型介绍：https://help.openai.com/en/articles/7864572-what-is-the-chatgpt-model-selector
+GPT-4o: 80 messages per three hours.
+o3: 100 messages per week.
+o4-mini-high: 100 messages per day.
+o4-mini: 300 messages per day.
